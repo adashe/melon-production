@@ -30,7 +30,6 @@ class Melon:
             return f"{self.color} {self.weight:.2f} lbs {self.melon_type}"
 
 
-# FIXME: Add Squash class definition here.
 class Squash(Melon):
     """Initialize squash."""
 
